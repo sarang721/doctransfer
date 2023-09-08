@@ -1,0 +1,33 @@
+.registervoter{
+    width: 80%;
+    padding: 30px 30px;
+    height: 100vh;
+   overflow-y: scroll;
+    
+}
+
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    font-size: 15px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  .buttonn {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
